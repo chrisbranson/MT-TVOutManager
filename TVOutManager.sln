@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TVOutManager", "TVOutManager\TVOutManager.csproj", "{E4CF3C99-B572-4E25-B3B5-6A060010451D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4CF3C99-B572-4E25-B3B5-6A060010451D}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{E4CF3C99-B572-4E25-B3B5-6A060010451D}.Debug|iPhone.Build.0 = Debug|iPhone
+		{E4CF3C99-B572-4E25-B3B5-6A060010451D}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{E4CF3C99-B572-4E25-B3B5-6A060010451D}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{E4CF3C99-B572-4E25-B3B5-6A060010451D}.Release|iPhone.ActiveCfg = Release|iPhone
+		{E4CF3C99-B572-4E25-B3B5-6A060010451D}.Release|iPhone.Build.0 = Release|iPhone
+		{E4CF3C99-B572-4E25-B3B5-6A060010451D}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{E4CF3C99-B572-4E25-B3B5-6A060010451D}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = TVOutManager\TVOutManager.csproj
+	EndGlobalSection
+EndGlobal
